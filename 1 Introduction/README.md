@@ -7,7 +7,8 @@ Original tutorial: [EmbeTronicX – Linux Device Driver Part 1: Introduction](ht
 
 ## 1. What is a Device Driver?
 
-A **device driver** is a piece of kernel-level code that lets the operating system talk to hardware in a standard way, hiding low-level details of the device. The kernel exposes a common interface to user-space programs while the driver handles the hardware-specific operations [web:0].
+- A **device driver** is a piece of kernel-level code that lets the operating system talk to hardware in a standard way, hiding low-level details of the device.
+-  The kernel exposes a common interface to user-space programs while the driver handles the hardware-specific operations [web:0].
 
 Key points:
 
